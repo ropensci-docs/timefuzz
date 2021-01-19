@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "d4660ac2e605d05e56b220f8cf9ca80f99bea2dc",
+    "author": "Scott Chamberlain <sckott@fastmail.com>",
+    "time": "2021-01-19 18:43:05",
+    "files": 2,
+    "merge": false,
+    "message": "use gh actions badge in readme\n"
+  },
+  "remote": "https://github.com/ropensci/timefuzz",
+  "pkg": "timefuzz"
+}
